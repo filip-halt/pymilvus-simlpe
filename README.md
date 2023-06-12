@@ -1,1 +1,1 @@
-# pymilvus-simple
+# pymilvus_simple
