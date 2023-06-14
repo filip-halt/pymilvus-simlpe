@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name='pymilvus_simple',
-    version='1.0',
+    version='1.0.1',
     description='Simple wrapper of pymilvus.',
     author='Filip Haltmayer',
     author_email='filip@zilliz.com',
